@@ -1,1 +1,2 @@
-# git_training_vg
+# Introduction
+This repo is for practicing the material covered in the EMEA Git training.
